@@ -1,5 +1,5 @@
-text = 'Hello '
-custom_key = 'python'
+text = ' Wassup my niggas '
+custom_key = 'white'
 
 def vigenere(message, key, direction):
     key_index = 0
